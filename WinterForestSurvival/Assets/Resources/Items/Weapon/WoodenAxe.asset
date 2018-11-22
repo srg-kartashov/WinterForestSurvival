@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 989a223b490bee747ada0e09627a654e, type: 3}
+  m_Name: WoodenAxe
+  m_EditorClassIdentifier: 
+  name: "\u0414\u0435\u0440\u0435\u0432\u044F\u043D\u043D\u044B\u0439 \u0442\u043E\u043F\u043E\u0440"
+  icon: {fileID: 21300000, guid: 77501d0bfe8b6d943afc9182dce62437, type: 3}
+  isDefaultItem: 0
+  prefOutHand: {fileID: 1624804169429372, guid: 9ac54be5a5048de4bae751875f69b67f,
+    type: 2}
+  details:
+  - {fileID: 11400000, guid: f0f4f1d77c594b0468125c42919f6fc6, type: 2}
+  - {fileID: 11400000, guid: f0f4f1d77c594b0468125c42919f6fc6, type: 2}
+  - {fileID: 11400000, guid: 9afffcfa389af644fa15438f1b9f707b, type: 2}
+  - {fileID: 11400000, guid: 9afffcfa389af644fa15438f1b9f707b, type: 2}
+  prefInHand: {fileID: 1624804169429372, guid: 9ac54be5a5048de4bae751875f69b67f, type: 2}
+  Animation: 1
+  AttackTrigger: {fileID: 1460438536348110, guid: 5624fffa6ea826e4e992aac055646479,
+    type: 2}
+  Hit: {fileID: 8300000, guid: 3e3536cd8ad5960458b0192be60676e6, type: 3}

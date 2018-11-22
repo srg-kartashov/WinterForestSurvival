@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 989a223b490bee747ada0e09627a654e, type: 3}
+  m_Name: StoneAxe
+  m_EditorClassIdentifier: 
+  name: "\u041A\u0430\u043C\u0435\u043D\u043D\u044B\u0439 \u0442\u043E\u043F\u043E\u0440"
+  icon: {fileID: 21300000, guid: ce56b57a78f50374ca292806f67c17af, type: 3}
+  isDefaultItem: 0
+  prefOutHand: {fileID: 1624804169429372, guid: eeb7e4cfe9fa4974a9b3ba798690ca66,
+    type: 2}
+  details:
+  - {fileID: 11400000, guid: f0f4f1d77c594b0468125c42919f6fc6, type: 2}
+  - {fileID: 11400000, guid: f0f4f1d77c594b0468125c42919f6fc6, type: 2}
+  - {fileID: 11400000, guid: f0f4f1d77c594b0468125c42919f6fc6, type: 2}
+  - {fileID: 11400000, guid: 3dae415bfb42b7b4fa61a5651f468328, type: 2}
+  - {fileID: 11400000, guid: 3dae415bfb42b7b4fa61a5651f468328, type: 2}
+  prefInHand: {fileID: 1624804169429372, guid: f2d61627d19d4f246ac5f887ef6e3886, type: 2}
+  Animation: 1
+  AttackTrigger: {fileID: 1460438536348110, guid: bb8d075e0d44764459b4e6f21d489476,
+    type: 2}
+  Hit: {fileID: 8300000, guid: 3e3536cd8ad5960458b0192be60676e6, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 989a223b490bee747ada0e09627a654e, type: 3}
+  m_Name: ShortGun
+  m_EditorClassIdentifier: 
+  name: "\u0420\u0443\u0436\u044C\u0435"
+  icon: {fileID: 21300000, guid: 0b50817ce808e3b488bccbd007679f73, type: 3}
+  isDefaultItem: 0
+  prefOutHand: {fileID: 1138748569243270, guid: d68bce8cfdc18ba41919c7dbfe779b30,
+    type: 2}
+  details: []
+  prefInHand: {fileID: 1138748569243270, guid: 6c117b68e65144a4ab4bae74a0cfd843, type: 2}
+  Animation: 3
+  AttackTrigger: {fileID: 0}
