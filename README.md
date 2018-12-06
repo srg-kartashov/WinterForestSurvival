@@ -11,3 +11,10 @@
   <li>Создать модуль для сохранения процесса игры</li>
   <li>Разработать логику взаимодействия между игровыми персонажами и главным героем</li>
 </ul>
+<img src="https://user-images.githubusercontent.com/34143453/49586557-2953af80-f96a-11e8-8eb5-deb037c288c8.jpg">
+<img src="https://user-images.githubusercontent.com/34143453/49586560-2ce73680-f96a-11e8-8b20-404df7b38d02.jpg">
+<img src="https://user-images.githubusercontent.com/34143453/49586830-e6dea280-f96a-11e8-817d-0e066d47642c.jpg">
+<img src="https://user-images.githubusercontent.com/34143453/49586579-340e4480-f96a-11e8-86cc-bf57ae012c9a.jpg">
+<img src="https://user-images.githubusercontent.com/34143453/49586562-2e186380-f96a-11e8-8102-7cf31b3f7fe1.jpg">
+<img src="https://user-images.githubusercontent.com/34143453/49586565-2f499080-f96a-11e8-96a1-22860c0e94cf.jpg">
+<img src="https://user-images.githubusercontent.com/34143453/49586575-32448100-f96a-11e8-9e66-c7cc549472ad.jpg">
